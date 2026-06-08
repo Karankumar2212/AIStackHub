@@ -1,0 +1,1042 @@
+[
+  {
+    "id": "chatgpt",
+    "slug": "chatgpt",
+    "name": "ChatGPT",
+    "tagline": "The most popular AI chatbot by OpenAI",
+    "description": "ChatGPT is an AI-powered chatbot developed by OpenAI that can generate human-like text responses. It can help with writing, coding, analysis, math, creative work, and much more. Powered by the GPT-4 model, it's one of the most capable and widely used AI assistants available today.",
+    "category": "chatbots",
+    "tags": ["chatbot", "gpt-4", "openai", "writing", "coding", "analysis", "free-tier"],
+    "website": "https://chat.openai.com",
+    "affiliateUrl": "",
+    "logo": "/logos/chatgpt.svg",
+    "screenshot": "/screenshots/chatgpt.png",
+    "pricing": {
+      "model": "freemium",
+      "free": true,
+      "freeDescription": "Free access to GPT-3.5 with limited GPT-4 usage",
+      "startingPrice": "$20/month",
+      "hasTrial": false,
+      "plans": [
+        { "name": "Free", "price": "$0", "features": ["GPT-3.5 access", "Limited GPT-4", "Web browsing (limited)"] },
+        { "name": "Plus", "price": "$20/mo", "features": ["GPT-4 access", "DALL-E 3", "Advanced data analysis", "Plugin access"] },
+        { "name": "Team", "price": "$25/mo", "features": ["All Plus features", "Higher usage limits", "Team workspace", "Admin console"] }
+      ]
+    },
+    "rating": 4.8,
+    "reviewCount": 15420,
+    "featured": true,
+    "trending": true,
+    "isNew": false,
+    "sponsored": false,
+    "features": [
+      "Natural language understanding and generation",
+      "Code writing and debugging",
+      "Essay and content writing",
+      "Data analysis and summarization",
+      "Image generation with DALL-E 3",
+      "Web browsing capability",
+      "File upload and analysis",
+      "Custom GPTs creation",
+      "API access for developers"
+    ],
+    "pros": [
+      "Most capable AI assistant available",
+      "Extremely versatile — handles almost any task",
+      "Large plugin and integration ecosystem",
+      "Continuously updated and improved"
+    ],
+    "cons": [
+      "Free tier has usage limits",
+      "Can sometimes produce inaccurate information",
+      "Plus plan required for best experience"
+    ],
+    "useCases": ["Content writing", "Customer support", "Code generation", "Research assistance", "Creative writing", "Language translation"],
+    "alternatives": ["claude", "gemini", "perplexity-ai", "mistral-ai"],
+    "publishedAt": "2024-01-15",
+    "updatedAt": "2024-05-20",
+    "seoTitle": "ChatGPT Review 2024 – Features, Pricing & Alternatives",
+    "seoDescription": "Comprehensive ChatGPT review covering features, pricing, pros and cons. Compare ChatGPT Plus vs Free. See if ChatGPT is the right AI assistant for you in 2024."
+  },
+  {
+    "id": "claude",
+    "slug": "claude",
+    "name": "Claude",
+    "tagline": "Anthropic's safe and thoughtful AI assistant",
+    "description": "Claude is a next-generation AI assistant built by Anthropic, designed to be helpful, harmless, and honest. Claude excels at nuanced analysis, long-form writing, complex reasoning, and coding tasks. It offers an industry-leading 200K context window, making it ideal for processing long documents.",
+    "category": "chatbots",
+    "tags": ["chatbot", "anthropic", "writing", "analysis", "long-context", "coding", "free-tier"],
+    "website": "https://claude.ai",
+    "affiliateUrl": "",
+    "logo": "/logos/claude.svg",
+    "screenshot": "/screenshots/claude.png",
+    "pricing": {
+      "model": "freemium",
+      "free": true,
+      "freeDescription": "Free tier with daily usage limits on Claude 3 Sonnet",
+      "startingPrice": "$20/month",
+      "hasTrial": false,
+      "plans": [
+        { "name": "Free", "price": "$0", "features": ["Claude 3 Sonnet access", "Daily message limit", "100K context window"] },
+        { "name": "Pro", "price": "$20/mo", "features": ["Claude 3 Opus", "5x more usage", "200K context window", "Priority access"] }
+      ]
+    },
+    "rating": 4.7,
+    "reviewCount": 8930,
+    "featured": true,
+    "trending": true,
+    "isNew": false,
+    "sponsored": false,
+    "features": [
+      "200K token context window",
+      "Advanced reasoning and analysis",
+      "Long-form writing and editing",
+      "Code generation and review",
+      "Document summarization",
+      "Nuanced conversation handling",
+      "Constitutional AI safety approach",
+      "Multi-turn conversations"
+    ],
+    "pros": [
+      "Excellent at following complex instructions",
+      "Industry-leading context window length",
+      "Strong at analysis and reasoning",
+      "More safety-conscious responses"
+    ],
+    "cons": [
+      "No image generation",
+      "No internet browsing",
+      "Free tier has usage limits"
+    ],
+    "useCases": ["Document analysis", "Long-form writing", "Code review", "Research", "Legal/technical reading", "Creative writing"],
+    "alternatives": ["chatgpt", "gemini", "perplexity-ai", "mistral-ai"],
+    "publishedAt": "2024-01-20",
+    "updatedAt": "2024-05-18",
+    "seoTitle": "Claude AI Review 2024 – Anthropic's Best AI Assistant",
+    "seoDescription": "In-depth Claude AI review 2024. Explore Claude 3 Opus, Sonnet and Haiku features, pricing, and how it compares to ChatGPT. Is Claude better than ChatGPT?"
+  },
+  {
+    "id": "gemini",
+    "slug": "gemini",
+    "name": "Gemini",
+    "tagline": "Google's most capable multimodal AI model",
+    "description": "Gemini is Google's most advanced AI model, built to be natively multimodal — it can understand and generate text, images, audio, video, and code. Gemini Ultra powers Google's most capable AI experiences, while Gemini Pro is available in Google's products and via API.",
+    "category": "chatbots",
+    "tags": ["chatbot", "google", "multimodal", "free-tier", "gemini-pro", "coding"],
+    "website": "https://gemini.google.com",
+    "affiliateUrl": "",
+    "logo": "/logos/gemini.svg",
+    "screenshot": "/screenshots/gemini.png",
+    "pricing": {
+      "model": "freemium",
+      "free": true,
+      "freeDescription": "Free access to Gemini Pro",
+      "startingPrice": "$19.99/month",
+      "hasTrial": false,
+      "plans": [
+        { "name": "Free", "price": "$0", "features": ["Gemini Pro access", "Google Workspace integration", "Image understanding"] },
+        { "name": "Advanced", "price": "$19.99/mo", "features": ["Gemini Ultra", "2TB storage", "Google One benefits", "Priority access"] }
+      ]
+    },
+    "rating": 4.6,
+    "reviewCount": 9210,
+    "featured": true,
+    "trending": false,
+    "isNew": false,
+    "sponsored": false,
+    "features": [
+      "Multimodal understanding (text, images, audio, video)",
+      "Google Search integration",
+      "Gmail and Docs integration",
+      "Code generation and analysis",
+      "Image generation with Imagen",
+      "Multi-language support",
+      "Real-time information access",
+      "Long context processing"
+    ],
+    "pros": [
+      "Deep Google ecosystem integration",
+      "Real-time web access included free",
+      "Strong multimodal capabilities",
+      "Excellent coding assistance"
+    ],
+    "cons": [
+      "Can lag behind GPT-4 on some benchmarks",
+      "Privacy concerns with Google data",
+      "Advanced tier required for best model"
+    ],
+    "useCases": ["Research with web access", "Google Workspace productivity", "Image analysis", "Code generation", "Document drafting"],
+    "alternatives": ["chatgpt", "claude", "perplexity-ai", "copilot"],
+    "publishedAt": "2024-02-01",
+    "updatedAt": "2024-05-15",
+    "seoTitle": "Gemini AI Review 2024 – Google's Multimodal AI Assistant",
+    "seoDescription": "Full Gemini AI review 2024. Explore Google Gemini Ultra vs Pro, features, pricing. See how Gemini compares to ChatGPT and Claude. Is Gemini worth upgrading to?"
+  },
+  {
+    "id": "github-copilot",
+    "slug": "github-copilot",
+    "name": "GitHub Copilot",
+    "tagline": "Your AI pair programmer by GitHub & OpenAI",
+    "description": "GitHub Copilot is an AI-powered code completion tool developed by GitHub and OpenAI. It suggests whole lines or blocks of code as you type, helping developers write code faster. It integrates directly into VS Code, JetBrains IDEs, Neovim, and more.",
+    "category": "coding",
+    "tags": ["coding", "code-completion", "github", "openai", "ide-plugin", "paid"],
+    "website": "https://github.com/features/copilot",
+    "affiliateUrl": "",
+    "logo": "/logos/github-copilot.svg",
+    "screenshot": "/screenshots/github-copilot.png",
+    "pricing": {
+      "model": "paid",
+      "free": false,
+      "freeDescription": "Free for verified students, teachers and open source maintainers",
+      "startingPrice": "$10/month",
+      "hasTrial": true,
+      "plans": [
+        { "name": "Individual", "price": "$10/mo", "features": ["Code completions", "Chat in IDE", "CLI support", "All major IDEs"] },
+        { "name": "Business", "price": "$19/mo", "features": ["All Individual features", "Team management", "IP indemnity", "Policy controls"] },
+        { "name": "Enterprise", "price": "$39/mo", "features": ["All Business features", "Custom models", "Security features", "Audit logs"] }
+      ]
+    },
+    "rating": 4.7,
+    "reviewCount": 12300,
+    "featured": true,
+    "trending": false,
+    "isNew": false,
+    "sponsored": false,
+    "features": [
+      "Real-time code suggestions",
+      "Multi-line code completion",
+      "Test generation",
+      "Code explanation",
+      "Bug fixing suggestions",
+      "Works in VS Code, JetBrains, Neovim",
+      "Copilot Chat in IDE",
+      "CLI support"
+    ],
+    "pros": [
+      "Deeply integrated into development workflow",
+      "Saves significant coding time",
+      "Supports 30+ programming languages",
+      "Strong context awareness within codebase"
+    ],
+    "cons": [
+      "No free tier for general users",
+      "Can suggest incorrect or insecure code",
+      "Privacy concerns with proprietary code"
+    ],
+    "useCases": ["Code autocompletion", "Boilerplate generation", "Unit test writing", "Code documentation", "Learning new languages"],
+    "alternatives": ["cursor", "codeium", "tabnine", "amazon-codewhisperer"],
+    "publishedAt": "2024-01-10",
+    "updatedAt": "2024-05-10",
+    "seoTitle": "GitHub Copilot Review 2024 – Best AI Code Assistant?",
+    "seoDescription": "Detailed GitHub Copilot review 2024. Features, pricing, pros and cons. Compare Copilot vs Cursor vs Codeium. Is GitHub Copilot worth $10/month for developers?"
+  },
+  {
+    "id": "cursor",
+    "slug": "cursor",
+    "name": "Cursor",
+    "tagline": "The AI-first code editor built for pair programming",
+    "description": "Cursor is an AI-first code editor forked from VS Code that deeply integrates AI into every part of your workflow. It can understand your entire codebase, write multi-file edits, fix bugs autonomously, and answer questions about your project with full context.",
+    "category": "coding",
+    "tags": ["coding", "code-editor", "ide", "ai-first", "vscode", "free-tier"],
+    "website": "https://cursor.sh",
+    "affiliateUrl": "",
+    "logo": "/logos/cursor.svg",
+    "screenshot": "/screenshots/cursor.png",
+    "pricing": {
+      "model": "freemium",
+      "free": true,
+      "freeDescription": "Hobby plan includes limited AI usage per month",
+      "startingPrice": "$20/month",
+      "hasTrial": false,
+      "plans": [
+        { "name": "Hobby", "price": "$0", "features": ["2000 code completions/mo", "50 slow GPT-4 requests", "Basic features"] },
+        { "name": "Pro", "price": "$20/mo", "features": ["Unlimited completions", "500 fast GPT-4", "Claude access", "Cursor Tab"] },
+        { "name": "Business", "price": "$40/mo", "features": ["All Pro", "Team features", "Admin dashboard", "Privacy mode"] }
+      ]
+    },
+    "rating": 4.8,
+    "reviewCount": 6780,
+    "featured": true,
+    "trending": true,
+    "isNew": false,
+    "sponsored": false,
+    "features": [
+      "Full codebase understanding",
+      "Multi-file edits with AI",
+      "Built-in AI chat with context",
+      "Tab autocomplete",
+      "Terminal command generation",
+      "Bug detection and fixing",
+      "VS Code extension compatibility",
+      "Claude and GPT-4 model support"
+    ],
+    "pros": [
+      "Best-in-class codebase-aware AI",
+      "VS Code familiar interface",
+      "Can make edits across multiple files",
+      "Excellent for solo devs and teams"
+    ],
+    "cons": [
+      "Free tier has limited AI calls",
+      "Separate app from existing VS Code setup",
+      "Pro plan required for heavy use"
+    ],
+    "useCases": ["Full-stack development", "Codebase refactoring", "Bug fixing", "Feature development", "Code reviews"],
+    "alternatives": ["github-copilot", "codeium", "tabnine", "windsurf"],
+    "publishedAt": "2024-02-10",
+    "updatedAt": "2024-05-25",
+    "seoTitle": "Cursor AI Review 2024 – Best AI Code Editor for Developers",
+    "seoDescription": "In-depth Cursor AI editor review 2024. Features, pricing, and comparison with GitHub Copilot. Is Cursor the best AI code editor? Find out in this complete review."
+  },
+  {
+    "id": "midjourney",
+    "slug": "midjourney",
+    "name": "Midjourney",
+    "tagline": "The world's leading AI image generation tool",
+    "description": "Midjourney is an independent AI research lab's image generation tool that creates stunning, artistic images from text prompts. Known for its unique aesthetic and photorealistic capabilities, Midjourney is the go-to tool for artists, designers, and creatives seeking high-quality AI imagery.",
+    "category": "design",
+    "tags": ["image-generation", "design", "art", "creative", "paid", "discord"],
+    "website": "https://midjourney.com",
+    "affiliateUrl": "",
+    "logo": "/logos/midjourney.svg",
+    "screenshot": "/screenshots/midjourney.png",
+    "pricing": {
+      "model": "paid",
+      "free": false,
+      "freeDescription": "No free tier currently available",
+      "startingPrice": "$10/month",
+      "hasTrial": false,
+      "plans": [
+        { "name": "Basic", "price": "$10/mo", "features": ["~200 image generations", "General queue access", "3 concurrent jobs"] },
+        { "name": "Standard", "price": "$30/mo", "features": ["15h GPU time", "Unlimited relaxed", "Stealth mode"] },
+        { "name": "Pro", "price": "$60/mo", "features": ["30h GPU time", "12 concurrent jobs", "Stealth mode", "Max upscale"] }
+      ]
+    },
+    "rating": 4.8,
+    "reviewCount": 18200,
+    "featured": true,
+    "trending": false,
+    "isNew": false,
+    "sponsored": false,
+    "features": [
+      "Photorealistic image generation",
+      "Unique artistic styles",
+      "High-resolution upscaling",
+      "Variations and remixing",
+      "Style reference support",
+      "V6 model with improved realism",
+      "Pan and zoom features",
+      "Inpainting and outpainting"
+    ],
+    "pros": [
+      "Produces the most aesthetically pleasing images",
+      "Wide range of styles and moods",
+      "Active and helpful community",
+      "Regular model improvements"
+    ],
+    "cons": [
+      "No free tier",
+      "Discord-based interface (less intuitive)",
+      "No direct API for basic plans"
+    ],
+    "useCases": ["Concept art", "Marketing visuals", "Book covers", "Social media content", "Game art", "Interior design"],
+    "alternatives": ["dall-e-3", "stable-diffusion", "adobe-firefly", "ideogram"],
+    "publishedAt": "2024-01-08",
+    "updatedAt": "2024-05-22",
+    "seoTitle": "Midjourney Review 2024 – Best AI Image Generator Guide",
+    "seoDescription": "Complete Midjourney review 2024. Features, pricing, tips for better prompts. Compare Midjourney vs DALL-E vs Stable Diffusion. Is Midjourney still the best AI art generator?"
+  },
+  {
+    "id": "dall-e-3",
+    "slug": "dall-e-3",
+    "name": "DALL-E 3",
+    "tagline": "OpenAI's most powerful text-to-image AI",
+    "description": "DALL-E 3 is OpenAI's latest image generation model with significantly improved accuracy and the ability to understand complex prompts. It's integrated directly into ChatGPT Plus and the OpenAI API, making it easy to generate high-quality images from detailed text descriptions.",
+    "category": "design",
+    "tags": ["image-generation", "design", "openai", "api", "chatgpt-integration"],
+    "website": "https://openai.com/dall-e-3",
+    "affiliateUrl": "",
+    "logo": "/logos/dalle3.svg",
+    "screenshot": "/screenshots/dalle3.png",
+    "pricing": {
+      "model": "freemium",
+      "free": true,
+      "freeDescription": "Available through ChatGPT free tier with limits",
+      "startingPrice": "$20/month",
+      "hasTrial": false,
+      "plans": [
+        { "name": "Via ChatGPT Free", "price": "$0", "features": ["Limited DALL-E 3 generations", "Standard quality", "ChatGPT interface"] },
+        { "name": "ChatGPT Plus", "price": "$20/mo", "features": ["More generations", "HD quality option", "Prompt enhancement"] },
+        { "name": "API", "price": "Pay per image", "features": ["$0.040–$0.120 per image", "HD and standard", "Programmatic access"] }
+      ]
+    },
+    "rating": 4.5,
+    "reviewCount": 7640,
+    "featured": false,
+    "trending": false,
+    "isNew": false,
+    "sponsored": false,
+    "features": [
+      "Superior text-to-image generation",
+      "Precise prompt following",
+      "HD and standard resolution options",
+      "Safe content generation",
+      "ChatGPT integration",
+      "API access",
+      "Realistic and artistic styles"
+    ],
+    "pros": [
+      "Excellent prompt understanding",
+      "Integrated into ChatGPT",
+      "Clean, professional outputs",
+      "Great for product and marketing images"
+    ],
+    "cons": [
+      "Content restrictions can be limiting",
+      "Fewer artistic styles than Midjourney",
+      "API costs add up quickly"
+    ],
+    "useCases": ["Marketing imagery", "Blog illustrations", "Product mockups", "Social media", "Presentations"],
+    "alternatives": ["midjourney", "stable-diffusion", "adobe-firefly", "ideogram"],
+    "publishedAt": "2024-01-12",
+    "updatedAt": "2024-05-01",
+    "seoTitle": "DALL-E 3 Review 2024 – OpenAI's Best Image Generator",
+    "seoDescription": "Complete DALL-E 3 review 2024. Features, pricing, and comparison with Midjourney and Stable Diffusion. Learn how to use DALL-E 3 for marketing and creative projects."
+  },
+  {
+    "id": "jasper",
+    "slug": "jasper",
+    "name": "Jasper AI",
+    "tagline": "The AI writing assistant built for marketing teams",
+    "description": "Jasper is an enterprise-grade AI writing platform designed specifically for marketing teams and content creators. It offers 50+ content templates, brand voice customization, and deep integration with SEO tools to produce on-brand marketing content at scale.",
+    "category": "writing",
+    "tags": ["writing", "marketing", "content-generation", "seo", "brand-voice", "paid"],
+    "website": "https://jasper.ai",
+    "affiliateUrl": "",
+    "logo": "/logos/jasper.svg",
+    "screenshot": "/screenshots/jasper.png",
+    "pricing": {
+      "model": "paid",
+      "free": false,
+      "freeDescription": "7-day free trial available",
+      "startingPrice": "$49/month",
+      "hasTrial": true,
+      "plans": [
+        { "name": "Creator", "price": "$49/mo", "features": ["1 user", "1 brand voice", "50+ templates", "SEO mode"] },
+        { "name": "Teams", "price": "$125/mo", "features": ["3 users", "3 brand voices", "Collaboration tools", "API access"] },
+        { "name": "Business", "price": "Custom", "features": ["Unlimited users", "Custom brand voices", "SSO", "Dedicated support"] }
+      ]
+    },
+    "rating": 4.4,
+    "reviewCount": 5230,
+    "featured": false,
+    "trending": false,
+    "isNew": false,
+    "sponsored": false,
+    "features": [
+      "50+ content templates",
+      "Brand voice training",
+      "SEO mode with Surfer SEO integration",
+      "Plagiarism checker",
+      "Team collaboration",
+      "Document editor",
+      "Multi-language support",
+      "API access"
+    ],
+    "pros": [
+      "Purpose-built for marketing content",
+      "Strong brand voice capabilities",
+      "Great template library",
+      "SEO optimization built-in"
+    ],
+    "cons": [
+      "Expensive compared to alternatives",
+      "Learning curve for beginners",
+      "Not ideal for technical writing"
+    ],
+    "useCases": ["Blog posts", "Ad copy", "Email marketing", "Social media content", "Product descriptions", "Landing pages"],
+    "alternatives": ["copy-ai", "writesonic", "chatgpt", "rytr"],
+    "publishedAt": "2024-01-18",
+    "updatedAt": "2024-04-30",
+    "seoTitle": "Jasper AI Review 2024 – Best AI Writing Tool for Marketers?",
+    "seoDescription": "Detailed Jasper AI review 2024. Is Jasper worth the price? Compare features, pricing, and alternatives. Find out if Jasper is the best AI writing assistant for your business."
+  },
+  {
+    "id": "copy-ai",
+    "slug": "copy-ai",
+    "name": "Copy.ai",
+    "tagline": "AI-powered copywriting for modern marketers",
+    "description": "Copy.ai is an AI-powered writing tool that helps you create marketing copy, blog content, and sales materials faster. With a generous free tier and 90+ content tools, it's one of the most accessible AI writing platforms for solopreneurs and small businesses.",
+    "category": "writing",
+    "tags": ["writing", "copywriting", "marketing", "free-tier", "templates"],
+    "website": "https://copy.ai",
+    "affiliateUrl": "",
+    "logo": "/logos/copy-ai.svg",
+    "screenshot": "/screenshots/copy-ai.png",
+    "pricing": {
+      "model": "freemium",
+      "free": true,
+      "freeDescription": "Free forever plan with 2,000 words per month",
+      "startingPrice": "$49/month",
+      "hasTrial": false,
+      "plans": [
+        { "name": "Free", "price": "$0", "features": ["2,000 words/mo", "1 user", "90+ tools", "Chat mode"] },
+        { "name": "Pro", "price": "$49/mo", "features": ["Unlimited words", "5 users", "Priority support", "25+ languages"] },
+        { "name": "Enterprise", "price": "Custom", "features": ["Unlimited users", "Custom AI workflows", "SSO", "Dedicated manager"] }
+      ]
+    },
+    "rating": 4.3,
+    "reviewCount": 4120,
+    "featured": false,
+    "trending": false,
+    "isNew": false,
+    "sponsored": false,
+    "features": [
+      "90+ copywriting tools",
+      "Blog post wizard",
+      "Social media content generator",
+      "Sales copy templates",
+      "Email subject lines",
+      "Product descriptions",
+      "Ad copy for Google and Facebook",
+      "Multi-language support"
+    ],
+    "pros": [
+      "Generous free tier",
+      "Easy to use interface",
+      "Great range of marketing templates",
+      "Good output quality for price"
+    ],
+    "cons": [
+      "Output quality can vary",
+      "Free tier word limit is low",
+      "Less customization than Jasper"
+    ],
+    "useCases": ["Social media captions", "Email subject lines", "Ad copy", "Product descriptions", "Blog outlines"],
+    "alternatives": ["jasper", "writesonic", "rytr", "chatgpt"],
+    "publishedAt": "2024-01-22",
+    "updatedAt": "2024-04-15",
+    "seoTitle": "Copy.ai Review 2024 – Free AI Writing Tool Worth Using?",
+    "seoDescription": "Complete Copy.ai review 2024. Is the free plan good enough? Compare Copy.ai vs Jasper vs Writesonic. Find out if Copy.ai is the best free AI copywriting tool."
+  },
+  {
+    "id": "runway-ml",
+    "slug": "runway-ml",
+    "name": "Runway ML",
+    "tagline": "The next-generation AI video creation studio",
+    "description": "Runway is an applied AI research company building next-generation video creation tools. Its Gen-2 model can generate videos from text, images, or video clips. Runway is used by filmmakers, content creators, and enterprises to push the boundaries of visual storytelling.",
+    "category": "video",
+    "tags": ["video", "video-generation", "text-to-video", "image-to-video", "creative", "freemium"],
+    "website": "https://runwayml.com",
+    "affiliateUrl": "",
+    "logo": "/logos/runway.svg",
+    "screenshot": "/screenshots/runway.png",
+    "pricing": {
+      "model": "freemium",
+      "free": true,
+      "freeDescription": "Free plan includes limited video generation credits",
+      "startingPrice": "$15/month",
+      "hasTrial": false,
+      "plans": [
+        { "name": "Free", "price": "$0", "features": ["125 one-time credits", "720p export", "Basic tools"] },
+        { "name": "Standard", "price": "$15/mo", "features": ["625 credits/mo", "1080p export", "All Gen-2 features"] },
+        { "name": "Pro", "price": "$35/mo", "features": ["2250 credits/mo", "4K upscale", "Priority access"] }
+      ]
+    },
+    "rating": 4.5,
+    "reviewCount": 3890,
+    "featured": false,
+    "trending": true,
+    "isNew": false,
+    "sponsored": false,
+    "features": [
+      "Text-to-video generation",
+      "Image-to-video transformation",
+      "Video-to-video style transfer",
+      "AI background removal",
+      "Motion brush controls",
+      "Camera controls",
+      "Green screen (chroma key)",
+      "Video inpainting"
+    ],
+    "pros": [
+      "Industry-leading video quality",
+      "Versatile toolset for video editing",
+      "Regularly updated with new models",
+      "Professional-grade features"
+    ],
+    "cons": [
+      "Credit system can be expensive",
+      "Generated videos are short (4-16s)",
+      "Free tier very limited"
+    ],
+    "useCases": ["Short film creation", "Social media content", "Advertising", "VFX prototyping", "Music videos"],
+    "alternatives": ["pika-labs", "synthesia", "heygen", "stable-video-diffusion"],
+    "publishedAt": "2024-01-25",
+    "updatedAt": "2024-05-18",
+    "seoTitle": "Runway ML Review 2024 – Best AI Video Generator?",
+    "seoDescription": "Full Runway ML review 2024. Features, pricing, Gen-2 model capabilities. Compare Runway vs Pika Labs vs Sora. Is Runway the best AI video generation tool for creators?"
+  },
+  {
+    "id": "notion-ai",
+    "slug": "notion-ai",
+    "name": "Notion AI",
+    "tagline": "AI assistant built directly into your workspace",
+    "description": "Notion AI is an AI-powered writing and productivity assistant embedded inside Notion. It can help you write, summarize, translate, fix grammar, brainstorm ideas, and extract action items — all without leaving your workspace. It's the smartest upgrade for existing Notion users.",
+    "category": "productivity",
+    "tags": ["productivity", "writing", "notion", "note-taking", "summarization", "freemium"],
+    "website": "https://notion.so/product/ai",
+    "affiliateUrl": "",
+    "logo": "/logos/notion-ai.svg",
+    "screenshot": "/screenshots/notion-ai.png",
+    "pricing": {
+      "model": "freemium",
+      "free": true,
+      "freeDescription": "20 free AI responses included with all Notion plans",
+      "startingPrice": "$10/month add-on",
+      "hasTrial": false,
+      "plans": [
+        { "name": "Included", "price": "$0", "features": ["20 free AI uses", "Basic features", "All Notion plan users"] },
+        { "name": "Notion AI Add-on", "price": "$10/mo", "features": ["Unlimited AI", "All AI features", "Priority access"] }
+      ]
+    },
+    "rating": 4.4,
+    "reviewCount": 5610,
+    "featured": false,
+    "trending": false,
+    "isNew": false,
+    "sponsored": false,
+    "features": [
+      "In-document AI writing assistance",
+      "Auto-summarization of notes",
+      "Action item extraction",
+      "Grammar and tone fixing",
+      "Translation in 16 languages",
+      "Q&A across your workspace",
+      "AI-powered templates",
+      "Content drafting"
+    ],
+    "pros": [
+      "Seamlessly integrated into Notion",
+      "No context switching needed",
+      "Great for note-taking workflows",
+      "Understands document context"
+    ],
+    "cons": [
+      "Requires Notion subscription",
+      "Additional $10/mo for unlimited use",
+      "Not a standalone tool"
+    ],
+    "useCases": ["Meeting notes summarization", "Project documentation", "Content planning", "Research organization", "Team wikis"],
+    "alternatives": ["chatgpt", "claude", "mem-ai", "obsidian"],
+    "publishedAt": "2024-02-05",
+    "updatedAt": "2024-04-20",
+    "seoTitle": "Notion AI Review 2024 – Is It Worth $10/Month?",
+    "seoDescription": "Complete Notion AI review 2024. Features, pricing, and whether it's worth adding to your Notion subscription. Compare Notion AI vs standalone writing tools."
+  },
+  {
+    "id": "elevenlabs",
+    "slug": "elevenlabs",
+    "name": "ElevenLabs",
+    "tagline": "The most realistic AI voice generation platform",
+    "description": "ElevenLabs is the industry-leading AI voice generation platform that can clone voices with remarkable accuracy and generate incredibly realistic speech. Used by podcasters, audiobook narrators, game developers, and enterprises for professional voice synthesis.",
+    "category": "audio",
+    "tags": ["audio", "voice-cloning", "text-to-speech", "tts", "freemium", "api"],
+    "website": "https://elevenlabs.io",
+    "affiliateUrl": "",
+    "logo": "/logos/elevenlabs.svg",
+    "screenshot": "/screenshots/elevenlabs.png",
+    "pricing": {
+      "model": "freemium",
+      "free": true,
+      "freeDescription": "10,000 characters per month on free plan",
+      "startingPrice": "$5/month",
+      "hasTrial": false,
+      "plans": [
+        { "name": "Free", "price": "$0", "features": ["10K chars/mo", "3 custom voices", "MP3 export"] },
+        { "name": "Starter", "price": "$5/mo", "features": ["30K chars/mo", "10 voices", "Commercial license"] },
+        { "name": "Creator", "price": "$22/mo", "features": ["100K chars/mo", "30 voices", "Voice cloning", "API access"] }
+      ]
+    },
+    "rating": 4.8,
+    "reviewCount": 7830,
+    "featured": true,
+    "trending": true,
+    "isNew": false,
+    "sponsored": false,
+    "features": [
+      "Ultra-realistic voice synthesis",
+      "Instant voice cloning",
+      "29+ language support",
+      "AI voice library with 1000+ voices",
+      "Projects for long-form content",
+      "Voice design from scratch",
+      "API for developers",
+      "Speech-to-speech conversion"
+    ],
+    "pros": [
+      "Most realistic voice quality available",
+      "Excellent voice cloning accuracy",
+      "Large multilingual voice library",
+      "Great API for developers"
+    ],
+    "cons": [
+      "Free tier character limit is low",
+      "Voice cloning requires verification",
+      "Can be expensive for high volume"
+    ],
+    "useCases": ["Audiobook narration", "Podcast production", "Video voiceovers", "Game character voices", "Accessibility tools", "Language learning"],
+    "alternatives": ["murf-ai", "play-ht", "voicemaker", "azure-speech"],
+    "publishedAt": "2024-01-30",
+    "updatedAt": "2024-05-20",
+    "seoTitle": "ElevenLabs Review 2024 – Best AI Voice Generator?",
+    "seoDescription": "Complete ElevenLabs review 2024. Features, pricing, voice quality test results. Compare ElevenLabs vs Murf vs Play.ht. Is ElevenLabs the best AI text-to-speech tool?"
+  },
+  {
+    "id": "perplexity-ai",
+    "slug": "perplexity-ai",
+    "name": "Perplexity AI",
+    "tagline": "The AI-powered answer engine with real-time web search",
+    "description": "Perplexity AI is a conversational search engine that combines the power of large language models with real-time web search. Unlike traditional AI chatbots, every Perplexity answer is backed by cited sources, making it ideal for research, fact-checking, and staying up to date.",
+    "category": "chatbots",
+    "tags": ["chatbot", "search", "research", "citations", "free-tier", "real-time"],
+    "website": "https://perplexity.ai",
+    "affiliateUrl": "",
+    "logo": "/logos/perplexity.svg",
+    "screenshot": "/screenshots/perplexity.png",
+    "pricing": {
+      "model": "freemium",
+      "free": true,
+      "freeDescription": "Free with unlimited standard search and limited Pro searches",
+      "startingPrice": "$20/month",
+      "hasTrial": false,
+      "plans": [
+        { "name": "Free", "price": "$0", "features": ["Unlimited searches", "5 Pro searches/day", "File upload (limited)"] },
+        { "name": "Pro", "price": "$20/mo", "features": ["600 Pro searches/day", "GPT-4, Claude access", "Image generation", "API credits"] }
+      ]
+    },
+    "rating": 4.6,
+    "reviewCount": 6240,
+    "featured": true,
+    "trending": true,
+    "isNew": false,
+    "sponsored": false,
+    "features": [
+      "Real-time web search integration",
+      "Cited sources for all answers",
+      "Follow-up question suggestions",
+      "File and image analysis",
+      "Spaces for research organization",
+      "GPT-4 and Claude model options",
+      "Academic paper search",
+      "API access"
+    ],
+    "pros": [
+      "Always current with real-time data",
+      "All answers include cited sources",
+      "Great for research and fact-checking",
+      "Generous free tier"
+    ],
+    "cons": [
+      "Less creative writing capability",
+      "Pro searches limited on free plan",
+      "Not ideal for long-form content creation"
+    ],
+    "useCases": ["Research and fact-checking", "Market research", "Academic research", "News monitoring", "Technical documentation lookup"],
+    "alternatives": ["chatgpt", "claude", "gemini", "you-com"],
+    "publishedAt": "2024-02-08",
+    "updatedAt": "2024-05-22",
+    "seoTitle": "Perplexity AI Review 2024 – The Best AI Search Engine?",
+    "seoDescription": "Full Perplexity AI review 2024. Features, pricing, and comparison with Google and ChatGPT. Is Perplexity the best AI search engine for research? Find out here."
+  },
+  {
+    "id": "synthesia",
+    "slug": "synthesia",
+    "name": "Synthesia",
+    "tagline": "Create professional AI videos with realistic avatars",
+    "description": "Synthesia is an AI video generation platform that lets you create professional videos featuring realistic AI avatars. Simply type your script and choose an avatar — no camera, microphone, or acting required. Used by 50,000+ companies for training videos, marketing content, and internal communications.",
+    "category": "video",
+    "tags": ["video", "ai-avatars", "text-to-video", "corporate", "training", "paid"],
+    "website": "https://synthesia.io",
+    "affiliateUrl": "",
+    "logo": "/logos/synthesia.svg",
+    "screenshot": "/screenshots/synthesia.png",
+    "pricing": {
+      "model": "paid",
+      "free": false,
+      "freeDescription": "Free demo with one 3-minute video",
+      "startingPrice": "$22/month",
+      "hasTrial": true,
+      "plans": [
+        { "name": "Starter", "price": "$22/mo", "features": ["10 minutes/mo video", "120+ AI avatars", "60+ languages"] },
+        { "name": "Creator", "price": "$67/mo", "features": ["30 minutes/mo video", "Custom avatar", "Brand kit", "Priority support"] },
+        { "name": "Enterprise", "price": "Custom", "features": ["Unlimited video", "API access", "SSO", "Dedicated account manager"] }
+      ]
+    },
+    "rating": 4.5,
+    "reviewCount": 3120,
+    "featured": false,
+    "trending": false,
+    "isNew": false,
+    "sponsored": false,
+    "features": [
+      "160+ professional AI avatars",
+      "130+ language support",
+      "Custom AI avatar creation",
+      "Built-in screen recorder",
+      "Slide to video conversion",
+      "Brand kit customization",
+      "Team collaboration",
+      "Video analytics"
+    ],
+    "pros": [
+      "No filming equipment needed",
+      "Huge library of professional avatars",
+      "Excellent for corporate training videos",
+      "Multi-language support is outstanding"
+    ],
+    "cons": [
+      "Expensive for high-volume use",
+      "Videos can look artificial",
+      "Limited creative control over expressions"
+    ],
+    "useCases": ["Corporate training", "Product demos", "Marketing videos", "Internal communications", "E-learning courses"],
+    "alternatives": ["heygen", "runway-ml", "d-id", "pictory"],
+    "publishedAt": "2024-02-12",
+    "updatedAt": "2024-04-25",
+    "seoTitle": "Synthesia Review 2024 – Best AI Avatar Video Generator?",
+    "seoDescription": "Complete Synthesia review 2024. Features, pricing, avatar quality. Compare Synthesia vs HeyGen vs D-ID. Is Synthesia the best AI video generator for business?"
+  },
+  {
+    "id": "writesonic",
+    "slug": "writesonic",
+    "name": "Writesonic",
+    "tagline": "AI writing tool for SEO content at scale",
+    "description": "Writesonic is an AI writing platform focused on SEO-optimized content creation. It includes Chatsonic (a ChatGPT-like assistant with web access), Botsonic (chatbot builder), and a full suite of content writing tools designed for marketing teams.",
+    "category": "writing",
+    "tags": ["writing", "seo", "marketing", "content-generation", "free-tier", "chatbot"],
+    "website": "https://writesonic.com",
+    "affiliateUrl": "",
+    "logo": "/logos/writesonic.svg",
+    "screenshot": "/screenshots/writesonic.png",
+    "pricing": {
+      "model": "freemium",
+      "free": true,
+      "freeDescription": "Free trial with 10,000 words",
+      "startingPrice": "$16/month",
+      "hasTrial": true,
+      "plans": [
+        { "name": "Free Trial", "price": "$0", "features": ["10,000 words", "All features", "GPT-3.5"] },
+        { "name": "Small Team", "price": "$16/mo", "features": ["200K words/mo", "GPT-4", "Botsonic", "Chatsonic"] },
+        { "name": "Enterprise", "price": "Custom", "features": ["Unlimited words", "API access", "Custom AI training", "Dedicated support"] }
+      ]
+    },
+    "rating": 4.3,
+    "reviewCount": 3870,
+    "featured": false,
+    "trending": false,
+    "isNew": false,
+    "sponsored": false,
+    "features": [
+      "100+ AI writing templates",
+      "Chatsonic AI assistant with web search",
+      "Botsonic no-code chatbot builder",
+      "SEO-optimized article writing",
+      "Bulk content generation",
+      "Landing page writer",
+      "Multi-language support",
+      "API access"
+    ],
+    "pros": [
+      "Good value for money",
+      "Chatsonic provides real-time web search",
+      "Excellent SEO article generation",
+      "Chatbot builder is a bonus feature"
+    ],
+    "cons": [
+      "Content quality inconsistent on lower plans",
+      "Interface can be overwhelming",
+      "Free trial word limit is restrictive"
+    ],
+    "useCases": ["SEO blog posts", "Ecommerce product descriptions", "Social media content", "Email newsletters", "Ad copy"],
+    "alternatives": ["jasper", "copy-ai", "rytr", "chatgpt"],
+    "publishedAt": "2024-01-28",
+    "updatedAt": "2024-04-18",
+    "seoTitle": "Writesonic Review 2024 – Best AI Writing Tool for SEO?",
+    "seoDescription": "In-depth Writesonic review 2024. Features, pricing, Chatsonic comparison. Is Writesonic good for SEO content? Compare Writesonic vs Jasper vs Copy.ai in 2024."
+  },
+  {
+    "id": "adobe-firefly",
+    "slug": "adobe-firefly",
+    "name": "Adobe Firefly",
+    "tagline": "Adobe's commercially safe generative AI for creatives",
+    "description": "Adobe Firefly is a family of creative generative AI models built into Adobe's Creative Cloud apps. It can generate images, add or remove objects from photos, extend images, generate vectors, and apply text effects — all trained on licensed content for commercial safety.",
+    "category": "design",
+    "tags": ["design", "image-generation", "adobe", "creative-cloud", "commercial-safe", "freemium"],
+    "website": "https://adobe.com/products/firefly",
+    "affiliateUrl": "",
+    "logo": "/logos/adobe-firefly.svg",
+    "screenshot": "/screenshots/adobe-firefly.png",
+    "pricing": {
+      "model": "freemium",
+      "free": true,
+      "freeDescription": "25 generative credits per month on free plan",
+      "startingPrice": "$4.99/month",
+      "hasTrial": false,
+      "plans": [
+        { "name": "Free", "price": "$0", "features": ["25 gen credits/mo", "Firefly web app", "Standard features"] },
+        { "name": "Firefly Premium", "price": "$4.99/mo", "features": ["100 gen credits/mo", "Priority generation", "Commercial license"] },
+        { "name": "Creative Cloud", "price": "$54.99/mo", "features": ["All CC apps + Firefly", "1000 credits/mo", "Full commercial rights"] }
+      ]
+    },
+    "rating": 4.4,
+    "reviewCount": 4590,
+    "featured": false,
+    "trending": false,
+    "isNew": false,
+    "sponsored": false,
+    "features": [
+      "Text-to-image generation",
+      "Generative Fill in Photoshop",
+      "Generative Expand",
+      "Text to vector in Illustrator",
+      "Text effects generation",
+      "3D-to-image generation",
+      "Commercially safe outputs",
+      "Adobe Stock integration"
+    ],
+    "pros": [
+      "Commercially safe for professional use",
+      "Deep Creative Cloud integration",
+      "Excellent Photoshop generative fill",
+      "Great for professional designers"
+    ],
+    "cons": [
+      "Limited credits on free plan",
+      "Best features require Creative Cloud",
+      "Generation can be slow at peak times"
+    ],
+    "useCases": ["Photo editing", "Commercial creative work", "Brand design", "Marketing materials", "Product photography"],
+    "alternatives": ["midjourney", "dall-e-3", "stable-diffusion", "canva"],
+    "publishedAt": "2024-02-15",
+    "updatedAt": "2024-05-05",
+    "seoTitle": "Adobe Firefly Review 2024 – Best AI for Professional Designers?",
+    "seoDescription": "Complete Adobe Firefly review 2024. Features, pricing, commercial safety. How does Firefly compare to Midjourney and DALL-E? Best AI design tool for Creative Cloud users?"
+  },
+  {
+    "id": "codeium",
+    "slug": "codeium",
+    "name": "Codeium",
+    "tagline": "Free AI code completion tool for every developer",
+    "description": "Codeium is a free AI-powered code acceleration toolkit that provides code completions, an in-IDE AI chat, and search capabilities. Supporting 70+ languages and 40+ editors, Codeium is a powerful and completely free alternative to GitHub Copilot.",
+    "category": "coding",
+    "tags": ["coding", "code-completion", "free", "ide-plugin", "autocomplete", "ai-chat"],
+    "website": "https://codeium.com",
+    "affiliateUrl": "",
+    "logo": "/logos/codeium.svg",
+    "screenshot": "/screenshots/codeium.png",
+    "pricing": {
+      "model": "freemium",
+      "free": true,
+      "freeDescription": "Completely free for individual developers",
+      "startingPrice": "$12/month",
+      "hasTrial": false,
+      "plans": [
+        { "name": "Individual", "price": "$0", "features": ["Unlimited completions", "AI chat", "70+ languages", "40+ editors"] },
+        { "name": "Teams", "price": "$12/mo", "features": ["All Individual features", "Team management", "Usage analytics", "Priority support"] },
+        { "name": "Enterprise", "price": "Custom", "features": ["On-premise deployment", "Custom models", "SSO", "SLA"] }
+      ]
+    },
+    "rating": 4.5,
+    "reviewCount": 4230,
+    "featured": false,
+    "trending": false,
+    "isNew": false,
+    "sponsored": false,
+    "features": [
+      "Unlimited free code completions",
+      "In-IDE AI chat assistant",
+      "70+ programming language support",
+      "40+ editor integrations",
+      "Code search across repository",
+      "Function documentation generation",
+      "Test generation",
+      "Refactoring suggestions"
+    ],
+    "pros": [
+      "Completely free for individuals",
+      "Supports more editors than Copilot",
+      "Surprisingly strong completion quality",
+      "No usage limits on free plan"
+    ],
+    "cons": [
+      "Less context-aware than Copilot",
+      "Chat quality behind paid alternatives",
+      "Smaller community than Copilot"
+    ],
+    "useCases": ["Code autocompletion", "Quick bug fixes", "Learning new frameworks", "Documentation generation", "Test writing"],
+    "alternatives": ["github-copilot", "cursor", "tabnine", "amazon-codewhisperer"],
+    "publishedAt": "2024-02-18",
+    "updatedAt": "2024-05-12",
+    "seoTitle": "Codeium Review 2024 – Best Free GitHub Copilot Alternative?",
+    "seoDescription": "Full Codeium review 2024. Is Codeium the best free Copilot alternative? Compare Codeium vs GitHub Copilot vs Tabnine. Free AI code completion for developers."
+  },
+  {
+    "id": "otter-ai",
+    "slug": "otter-ai",
+    "name": "Otter.ai",
+    "tagline": "AI meeting assistant with real-time transcription",
+    "description": "Otter.ai is an AI-powered meeting assistant that provides real-time transcription, automated summaries, and action item extraction for your meetings. It integrates with Zoom, Google Meet, and Microsoft Teams to automatically join and document your meetings.",
+    "category": "productivity",
+    "tags": ["productivity", "meetings", "transcription", "summarization", "zoom", "freemium"],
+    "website": "https://otter.ai",
+    "affiliateUrl": "",
+    "logo": "/logos/otter-ai.svg",
+    "screenshot": "/screenshots/otter-ai.png",
+    "pricing": {
+      "model": "freemium",
+      "free": true,
+      "freeDescription": "Free plan includes 300 monthly transcription minutes",
+      "startingPrice": "$16.99/month",
+      "hasTrial": false,
+      "plans": [
+        { "name": "Basic", "price": "$0", "features": ["300 mins/mo", "3 audio imports/mo", "AI chat on notes"] },
+        { "name": "Pro", "price": "$16.99/mo", "features": ["1200 mins/mo", "AI summaries", "Custom vocabulary", "Audio import"] },
+        { "name": "Business", "price": "$30/mo", "features": ["6000 mins/mo", "Team features", "Salesforce integration", "Admin console"] }
+      ]
+    },
+    "rating": 4.4,
+    "reviewCount": 6720,
+    "featured": false,
+    "trending": false,
+    "isNew": false,
+    "sponsored": false,
+    "features": [
+      "Real-time meeting transcription",
+      "Automated meeting summaries",
+      "Action item extraction",
+      "Zoom, Meet, Teams integration",
+      "AI chat with meeting notes",
+      "Speaker identification",
+      "Custom vocabulary",
+      "Searchable transcripts"
+    ],
+    "pros": [
+      "Extremely accurate transcription",
+      "Saves hours of note-taking per week",
+      "Seamless video call integrations",
+      "Good free tier for light users"
+    ],
+    "cons": [
+      "Free tier has monthly minute limit",
+      "Can struggle with heavy accents",
+      "Privacy considerations for sensitive meetings"
+    ],
+    "useCases": ["Meeting notes automation", "Interview recording", "Lecture transcription", "Podcast production", "Customer call documentation"],
+    "alternatives": ["fireflies-ai", "tldv", "gong", "fathom"],
+    "publishedAt": "2024-02-20",
+    "updatedAt": "2024-04-28",
+    "seoTitle": "Otter.ai Review 2024 – Best AI Meeting Transcription Tool?",
+    "seoDescription": "Complete Otter.ai review 2024. Features, pricing, accuracy test. Compare Otter.ai vs Fireflies vs tl;dv. Is Otter.ai the best AI meeting assistant for your team?"
+  }
+]

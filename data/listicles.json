@@ -1,0 +1,68 @@
+[
+  {
+    "slug": "best-ai-writing-tools",
+    "title": "15 Best AI Writing Tools in 2024 (Tested & Reviewed)",
+    "description": "We tested over 30 AI writing tools to find the absolute best. Here are our top picks for every budget and use case — from free to enterprise.",
+    "seoTitle": "15 Best AI Writing Tools 2024 – Tested & Ranked",
+    "seoDescription": "Discover the best AI writing tools of 2024. We tested 30+ tools and ranked the top 15. Find the perfect AI writing assistant for blogs, marketing, and more.",
+    "category": "writing",
+    "toolSlugs": ["chatgpt", "jasper", "copy-ai", "writesonic"],
+    "publishedAt": "2024-03-01",
+    "updatedAt": "2024-05-20"
+  },
+  {
+    "slug": "best-ai-coding-tools",
+    "title": "10 Best AI Coding Tools in 2024 – Developer's Guide",
+    "description": "The best AI coding assistants, code generators and IDE plugins to speed up your development workflow. Tested by working developers.",
+    "seoTitle": "10 Best AI Coding Tools 2024 – Code Faster with AI",
+    "seoDescription": "Find the best AI coding tools of 2024. Compare GitHub Copilot, Cursor, Codeium and more. Expert picks for developers who want to code 10x faster.",
+    "category": "coding",
+    "toolSlugs": ["github-copilot", "cursor", "codeium"],
+    "publishedAt": "2024-03-05",
+    "updatedAt": "2024-05-18"
+  },
+  {
+    "slug": "free-ai-tools",
+    "title": "20 Best Free AI Tools in 2024 (No Credit Card Required)",
+    "description": "The best free AI tools available right now — no credit card, no trial, no gimmicks. Real free AI tools for writing, coding, design, and more.",
+    "seoTitle": "20 Best Free AI Tools 2024 – No Credit Card Required",
+    "seoDescription": "Best free AI tools of 2024. Completely free AI tools for writing, coding, design, and productivity. No credit card required, no trial limits.",
+    "category": null,
+    "toolSlugs": ["chatgpt", "claude", "gemini", "codeium", "perplexity-ai"],
+    "publishedAt": "2024-03-10",
+    "updatedAt": "2024-05-22"
+  },
+  {
+    "slug": "ai-tools-for-students",
+    "title": "12 Best AI Tools for Students in 2024",
+    "description": "The best AI tools to help students study smarter, write better papers, research faster, and learn more effectively.",
+    "seoTitle": "12 Best AI Tools for Students 2024 – Study Smarter",
+    "seoDescription": "Best AI tools for students in 2024. AI writing assistants, research tools, and study helpers. Use AI to write better papers and study more efficiently.",
+    "category": null,
+    "toolSlugs": ["chatgpt", "claude", "perplexity-ai", "notion-ai", "otter-ai"],
+    "publishedAt": "2024-03-15",
+    "updatedAt": "2024-05-15"
+  },
+  {
+    "slug": "ai-tools-for-marketers",
+    "title": "14 Best AI Tools for Marketers in 2024",
+    "description": "The top AI tools every marketer should be using in 2024 — from content creation and SEO to social media and campaign optimization.",
+    "seoTitle": "14 Best AI Tools for Marketers 2024 – Boost Your Marketing",
+    "seoDescription": "Best AI marketing tools 2024. AI tools for content, SEO, social media, email, and ads. Boost your marketing ROI with these top AI tools for marketers.",
+    "category": "marketing",
+    "toolSlugs": ["jasper", "copy-ai", "writesonic", "chatgpt", "dall-e-3"],
+    "publishedAt": "2024-03-20",
+    "updatedAt": "2024-05-10"
+  },
+  {
+    "slug": "best-ai-image-generators",
+    "title": "10 Best AI Image Generators in 2024 (Compared)",
+    "description": "Side-by-side comparison of the best AI image generators — Midjourney, DALL-E 3, Stable Diffusion, Adobe Firefly and more.",
+    "seoTitle": "10 Best AI Image Generators 2024 – Compared & Ranked",
+    "seoDescription": "Best AI image generators of 2024. Compare Midjourney vs DALL-E 3 vs Stable Diffusion. Find the best AI art generator for your creative projects.",
+    "category": "design",
+    "toolSlugs": ["midjourney", "dall-e-3", "adobe-firefly"],
+    "publishedAt": "2024-03-25",
+    "updatedAt": "2024-05-25"
+  }
+]

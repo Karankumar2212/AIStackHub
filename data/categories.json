@@ -1,0 +1,98 @@
+[
+  {
+    "slug": "writing",
+    "name": "Writing",
+    "description": "AI writing assistants, content generators, and copywriting tools to help you create better content faster.",
+    "icon": "PenLine",
+    "color": "from-blue-500 to-indigo-600",
+    "bgColor": "bg-blue-50",
+    "textColor": "text-blue-700",
+    "seoTitle": "Best AI Writing Tools 2024 – Top AI Content Generators",
+    "seoDescription": "Discover the best AI writing tools of 2024. Compare top AI content generators, copywriting assistants, and blog writing tools. Find the perfect AI writing assistant for your needs.",
+    "toolCount": 0
+  },
+  {
+    "slug": "coding",
+    "name": "Coding",
+    "description": "AI coding assistants, code generators, and developer tools to accelerate your software development workflow.",
+    "icon": "Code2",
+    "color": "from-emerald-500 to-teal-600",
+    "bgColor": "bg-emerald-50",
+    "textColor": "text-emerald-700",
+    "seoTitle": "Best AI Coding Tools 2024 – Top AI Code Assistants",
+    "seoDescription": "Explore the best AI coding tools and code assistants of 2024. Compare GitHub Copilot, Cursor, and more. Find AI tools that speed up your development workflow.",
+    "toolCount": 0
+  },
+  {
+    "slug": "design",
+    "name": "Design",
+    "description": "AI design tools, image generators, and creative AI platforms for designers and creatives.",
+    "icon": "Palette",
+    "color": "from-purple-500 to-pink-600",
+    "bgColor": "bg-purple-50",
+    "textColor": "text-purple-700",
+    "seoTitle": "Best AI Design Tools 2024 – Top AI Image Generators",
+    "seoDescription": "Find the best AI design tools and image generators of 2024. Compare Midjourney, DALL-E, Stable Diffusion and more. Discover AI tools for designers and creatives.",
+    "toolCount": 0
+  },
+  {
+    "slug": "marketing",
+    "name": "Marketing",
+    "description": "AI marketing tools for SEO, social media, email campaigns, ad copy, and growth hacking.",
+    "icon": "TrendingUp",
+    "color": "from-orange-500 to-red-600",
+    "bgColor": "bg-orange-50",
+    "textColor": "text-orange-700",
+    "seoTitle": "Best AI Marketing Tools 2024 – Top AI for Digital Marketing",
+    "seoDescription": "Discover the best AI marketing tools of 2024. Compare SEO tools, social media AI, email marketing automation and ad copy generators. Boost your marketing with AI.",
+    "toolCount": 0
+  },
+  {
+    "slug": "video",
+    "name": "Video",
+    "description": "AI video generators, editors, and production tools for creating stunning video content with artificial intelligence.",
+    "icon": "Video",
+    "color": "from-red-500 to-rose-600",
+    "bgColor": "bg-red-50",
+    "textColor": "text-red-700",
+    "seoTitle": "Best AI Video Tools 2024 – Top AI Video Generators",
+    "seoDescription": "Explore the best AI video tools and generators of 2024. Compare Runway, Synthesia, HeyGen and more. Create professional videos with AI technology.",
+    "toolCount": 0
+  },
+  {
+    "slug": "productivity",
+    "name": "Productivity",
+    "description": "AI productivity tools, task managers, meeting assistants, and workflow automation to get more done.",
+    "icon": "Zap",
+    "color": "from-yellow-500 to-amber-600",
+    "bgColor": "bg-yellow-50",
+    "textColor": "text-yellow-700",
+    "seoTitle": "Best AI Productivity Tools 2024 – Top AI Work Assistants",
+    "seoDescription": "Find the best AI productivity tools of 2024. Compare meeting assistants, task managers, workflow automation and AI note-taking apps. Work smarter with AI.",
+    "toolCount": 0
+  },
+  {
+    "slug": "chatbots",
+    "name": "Chatbots",
+    "description": "AI chatbots, conversational AI platforms, and intelligent assistants for personal and business use.",
+    "icon": "MessageSquare",
+    "color": "from-cyan-500 to-sky-600",
+    "bgColor": "bg-cyan-50",
+    "textColor": "text-cyan-700",
+    "seoTitle": "Best AI Chatbots 2024 – Top Conversational AI Tools",
+    "seoDescription": "Discover the best AI chatbots and conversational AI tools of 2024. Compare ChatGPT, Claude, Gemini, and other top AI assistants. Find the best AI chatbot for your needs.",
+    "toolCount": 0
+  },
+  {
+    "slug": "audio",
+    "name": "Audio",
+    "description": "AI audio tools for voice cloning, text-to-speech, music generation, and podcast production.",
+    "icon": "Music",
+    "color": "from-violet-500 to-purple-600",
+    "bgColor": "bg-violet-50",
+    "textColor": "text-violet-700",
+    "seoTitle": "Best AI Audio Tools 2024 – Top AI Voice & Music Generators",
+    "seoDescription": "Explore the best AI audio tools of 2024. Compare AI voice cloning, text-to-speech, music generation tools. Create professional audio content with AI.",
+    "toolCount": 0
+  }
+]
