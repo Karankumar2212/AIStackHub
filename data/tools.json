@@ -1038,5 +1038,66 @@
     "updatedAt": "2024-04-28",
     "seoTitle": "Otter.ai Review 2024 – Best AI Meeting Transcription Tool?",
     "seoDescription": "Complete Otter.ai review 2024. Features, pricing, accuracy test. Compare Otter.ai vs Fireflies vs tl;dv. Is Otter.ai the best AI meeting assistant for your team?"
+  },
+  {
+    "id": "agent-qa",
+    "slug": "agent-qa",
+    "name": "Agent QA",
+    "tagline": "Natural-language QA for web and mobile apps via CLI and MCP",
+    "description": "Agent QA is a Node.js package from Vostride for running natural-language QA flows against web and mobile applications through its CLI or MCP server. Current releases use the source-available FSL-1.1-ALv2 license rather than an OSI-approved open-source license, and each release converts to Apache-2.0 two years after publication.",
+    "category": "coding",
+    "tags": ["qa", "testing", "automation", "web", "mobile", "mcp", "source-available"],
+    "website": "https://github.com/vostride/agent-qa",
+    "affiliateUrl": "",
+    "logo": "",
+    "screenshot": "",
+    "pricing": {
+      "model": "free",
+      "free": true,
+      "freeDescription": "The package has no fee; configured model, browser, and device providers may charge separately",
+      "startingPrice": "$0 for the package",
+      "hasTrial": false,
+      "plans": [
+        {
+          "name": "Package",
+          "price": "$0",
+          "features": ["CLI and MCP interfaces", "Web and mobile QA workflows", "Reusable test definitions"]
+        }
+      ]
+    },
+    "rating": 0,
+    "reviewCount": 0,
+    "featured": false,
+    "trending": false,
+    "isNew": false,
+    "sponsored": false,
+    "features": [
+      "Natural-language QA definitions",
+      "Web application QA workflows",
+      "Mobile application QA workflows",
+      "Command-line interface",
+      "MCP stdio server",
+      "Reusable test definitions"
+    ],
+    "pros": [
+      "One package supports both web and mobile QA workflows",
+      "CLI and MCP interfaces are available"
+    ],
+    "cons": [
+      "Requires Node.js 24 or newer",
+      "Model, browser, and device providers must be configured separately",
+      "Current releases use a source-available license rather than an OSI-approved license"
+    ],
+    "useCases": [
+      "Web application QA",
+      "Mobile application QA",
+      "Regression flow execution",
+      "MCP-connected QA workflows"
+    ],
+    "alternatives": [],
+    "publishedAt": "2026-05-07",
+    "updatedAt": "2026-08-17",
+    "seoTitle": "Agent QA Review 2026 – Web and Mobile QA via CLI and MCP",
+    "seoDescription": "Agent QA provides natural-language web and mobile QA through a CLI and MCP server. The package has no fee; configured providers may charge separately."
   }
 ]
